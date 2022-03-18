@@ -1,4 +1,11 @@
-20155520594672212
+20162110941439702
+434111043826
+434111043826
+<B>WS-TASV</B><BR>6x3.5 mm SMD Tact Switch, 2 pins
+
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -78623,6 +78630,20 @@ rotary encoder
 0
 5
 4
+SamacSys_Parts
+AX1203DLF
+AX-1203D-LF
+Connector
+0
+2
+2
+SamacSys_Parts
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -85627,6 +85648,13 @@ Varistor
 RV_Disc_D21.5mm_W11.4mm_P10mm
 Varistor, diameter 21.5mm, width 11.4mm, pitch 10mm
 varistor SIOV
+0
+2
+2
+degson
+degson-DG306-5.0-02P
+
+
 0
 2
 2
