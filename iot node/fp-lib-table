@@ -4,4 +4,7 @@
   (lib (name "BME680")(type "KiCad")(uri "${KIPRJMOD}/BME680")(options "")(descr ""))
   (lib (name "QFN50P500X500X80-33N")(type "KiCad")(uri "${KIPRJMOD}/QFN50P500X500X80-33N")(options "")(descr ""))
   (lib (name "esp")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries-main/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "degson")(type "KiCad")(uri "${KIPRJMOD}/degson")(options "")(descr ""))
+  (lib (name "434111043826")(type "KiCad")(uri "${KIPRJMOD}/434111043826")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/buzzer/SamacSys_Parts.pretty")(options "")(descr ""))
 )

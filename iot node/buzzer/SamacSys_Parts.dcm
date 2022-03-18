@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP AX-1203D-LF
+D Piezo Buzzers & Audio Indicators EM Buzzer 2300Hz 3VDC, 85dBA
+K
+F https://www.mouser.ch/datasheet/2/1005/2020050828412-2324927.pdf
+$ENDCMP
+#
+#End Doc Library
