@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "434111043826")(type "Legacy")(uri "${KIPRJMOD}/434111043826/434111043826.lib")(options "")(descr ""))
+  (lib (name "BME680")(type "Legacy")(uri "${KIPRJMOD}/BME680/BME680.lib")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "Legacy")(uri "${KIPRJMOD}/buzzer/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name "degson")(type "Legacy")(uri "${KIPRJMOD}/degson/degson.lib")(options "")(descr ""))
+  (lib (name "EKMB1305112K_sym")(type "KiCad")(uri "${KIPRJMOD}/EKMB1305112K/EKMB1305112K_sym.kicad_sym")(options "")(descr ""))
+  (lib (name "LP2989IMX-3.3_NOPB")(type "Legacy")(uri "${KIPRJMOD}/LP2989IMX-3.3_NOPB/LP2989IMX-3.3_NOPB.lib")(options "")(descr ""))
+  (lib (name "Espressif")(type "Legacy")(uri "${KIPRJMOD}/kicad-libraries-main/libraries/Espressif.lib")(options "")(descr ""))
+)

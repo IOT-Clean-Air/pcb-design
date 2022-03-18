@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LP2989IMX-3.3/NOPB
+#
+DEF LP2989IMX-3.3/NOPB U 0 40 Y Y 1 L N
+F0 "U" -179 575 50 H V L BNN
+F1 "LP2989IMX-3.3/NOPB" -208 -964 50 H V L BNN
+F2 "SOIC127P600X175-8N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "-" 0 0 50 H I L BNN "OC_FARNELL"
+F5 "National Semiconductor" 0 0 50 H I L BNN "SUPPLIER"
+F6 "41K7203" 0 0 50 H I L BNN "OC_NEWARK"
+F7 "SOIC-8" 0 0 50 H I L BNN "PACKAGE"
+F8 "LP2989IMX-3.3/NOPB" 0 0 50 H I L BNN "MPN"
+DRAW
+S -600 -800 600 500 0 0 16 f
+X INPUT 4 -800 300 200 R 40 40 0 0 W 
+X BYPASS 1 -800 100 200 R 40 40 0 0 I 
+X ~SHUTDOWN 8 -800 0 200 R 40 40 0 0 I 
+X SENSE 6 -800 -100 200 R 40 40 0 0 I 
+X ~ERROR 7 -800 -200 200 R 40 40 0 0 I 
+X NC 2 -800 -400 200 R 40 40 0 0 N 
+X GND 3 -800 -600 200 R 40 40 0 0 P 
+X OUTPUT 5 800 300 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library

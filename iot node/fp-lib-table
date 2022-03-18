@@ -7,4 +7,5 @@
   (lib (name "434111043826")(type "KiCad")(uri "${KIPRJMOD}/434111043826")(options "")(descr ""))
   (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/buzzer/SamacSys_Parts.pretty")(options "")(descr ""))
   (lib (name "degson")(type "KiCad")(uri "${KIPRJMOD}/degson")(options "")(descr ""))
+  (lib (name "LP2989IMX-3")(type "KiCad")(uri "${KIPRJMOD}/LP2989IMX-3.3_NOPB")(options "")(descr ""))
 )
