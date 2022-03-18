@@ -1,9 +1,0 @@
-(sym_lib_table
-  (lib (name "ESP32-WROOM-32E__16MB_")(type "Legacy")(uri "${KIPRJMOD}/ESP32-WROOM-32E__16MB/ESP32-WROOM-32E__16MB_.lib")(options "")(descr ""))
-  (lib (name "EKMB1305112K_sym")(type "KiCad")(uri "${KIPRJMOD}/EKMB1305112K/EKMB1305112K_sym.kicad_sym")(options "")(descr ""))
-  (lib (name "BME680")(type "Legacy")(uri "${KIPRJMOD}/BME680/BME680.lib")(options "")(descr ""))
-  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries-main/libraries/Espressif.kicad_sym")(options "")(descr ""))
-  (lib (name "Espressif2")(type "Legacy")(uri "${KIPRJMOD}/kicad-libraries-main/libraries/Espressif.lib")(options "")(descr ""))
-  (lib (name "434111043826")(type "Legacy")(uri "${KIPRJMOD}/434111043826/434111043826.lib")(options "")(descr ""))
-  (lib (name "degson")(type "Legacy")(uri "${KIPRJMOD}/degson/degson.lib")(options "")(descr ""))
-)
